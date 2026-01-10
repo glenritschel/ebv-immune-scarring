@@ -1,0 +1,53 @@
+# configs/signatures.yaml
+signatures:
+  ISG_TypeI_IFN:
+    - ISG15
+    - MX1
+    - MX2
+    - OAS1
+    - OAS2
+    - OAS3
+    - IFIT1
+    - IFIT2
+    - IFIT3
+    - IFI6
+    - IFI27
+    - IFI44
+    - IFI44L
+    - RSAD2
+    - USP18
+    - IRF7
+    - STAT1
+    - STAT2
+
+  Antigen_Presentation:
+    - HLA-DRA
+    - HLA-DRB1
+    - HLA-DPA1
+    - HLA-DPB1
+    - HLA-DQA1
+    - HLA-DQB1
+    - CD74
+    - CIITA
+
+  NFkB_Immediate_Early:
+    - NFKBIA
+    - TNFAIP3
+    - REL
+    - RELA
+    - NFKB1
+    - NFKB2
+    - BCL3
+
+  ABC_like_Bcell:
+    - ITGAX
+    - TBX21
+    - FCRL5
+    - ZBTB32
+    - CXCR3
+    - FCER1G
+    - LILRB1
+    - SIGLEC10
+    - CD86
+    - TNFRSF13B
+

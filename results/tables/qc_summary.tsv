@@ -1,0 +1,3 @@
+dataset	n_cells_before	n_genes_before	n_cells_after	n_genes_after	median_total_counts_before	median_genes_by_counts_before	median_pct_mito_before	median_total_counts_after	median_genes_by_counts_after	median_pct_mito_after	min_genes	min_counts	max_pct_mito	min_cells_per_gene	target_sum	log1p
+GSE158275	9824	67748	9818	35474	16631.0	3026.5	1.8816009557945041	16631.0	3026.5	1.8806812281102696	200	500	30.0	3	10000.0	True
+GSE267750	292637	36601	279072	26579	4045.0	1238.0	5.531531531531531	4146.0	1263.0	5.436349164259038	200	500	25.0	3	10000.0	True

@@ -1,0 +1,24 @@
+# configs/qc.yaml
+defaults:
+  organism: human
+  mito_prefixes: ["MT-"]     # human mitochondrial genes
+
+  # Conservative filters
+  min_genes: 200
+  min_counts: 500
+  max_pct_mito: 25.0
+  min_cells_per_gene: 3
+
+  # Preprocessing
+  target_sum: 10000
+  log1p: true
+
+overrides:
+  GSE158275:
+    # (optional) keep defaults unless you learn something later
+    max_pct_mito: 30.0
+
+  GSE267750:
+    # large cohort datasets sometimes have slightly higher ambient RNA / stress
+    max_pct_mito: 25.0
+

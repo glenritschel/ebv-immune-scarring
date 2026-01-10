@@ -1,0 +1,22 @@
+# configs/datasets.yaml
+datasets:
+  GSE158275:
+    geo_accession: GSE158275
+    organism: human
+    notes: "EBV-infected B cells / LCL scRNA-seq (use processed supp files if available)"
+    download:
+      include_patterns: ["h5ad", "mtx", "h5", "tsv", "csv", "tar", "gz"]
+      exclude_patterns: ["fastq", "fq", "bam"]
+    paths:
+      raw_dir: data/raw/GSE158275
+
+  GSE267750:
+    geo_accession: GSE267750
+    organism: human
+    notes: "B cell single-cell cohort dataset (use processed supp files if available)"
+    download:
+      include_patterns: ["h5ad", "mtx", "h5", "tsv", "csv", "tar", "gz"]
+      exclude_patterns: ["fastq", "fq", "bam"]
+    paths:
+      raw_dir: data/raw/GSE267750
+

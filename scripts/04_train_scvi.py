@@ -4,6 +4,10 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
+import warnings
+warnings.filterwarnings("ignore", message="pkg_resources is deprecated as an API.*")
+
+
 import scanpy as sc
 import scvi
 
@@ -57,7 +61,16 @@ def train_scvi_for_dataset(
     # Neighbors + Leiden in latent space
     print("Computing neighbors + Leiden on X_scVI ...")
     sc.pp.neighbors(adata, use_rep="X_scVI", n_neighbors=n_neighbors)
-    sc.tl.leiden(adata, resolution=leiden_resolution, key_added="leiden_scvi")
+
+    sc.tl.leiden(
+    adata,
+    resolution=leiden_resolution,
+    key_added="leiden_scvi",
+    flavor="igraph",
+    n_iterations=2,
+    directed=False,
+)
+
 
     # Save output AnnData
     out_path = out_root / f"{gse}.scvi.h5ad"
