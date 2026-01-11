@@ -1,0 +1,25 @@
+signature_name	class	compound_raw	score	moa	target	source	pert_id	cell_id	pert_dose	pert_dose_unit	pert_time	pert_time_unit	sig_id	pubchem_id	drugchem_id
+GSE158275_LCL_13_vs_2	BET_inhibitor	(+)-JQ1	0.0519	BET bromodomain inhibitor	BRD2/3/4	rule:\b(jq1|i-bet|ibet|bet)\b	BRD-K54606188	HT29	0.37	um	24.0	h	LJP008_HT29_24H:BRD-K54606188:0.37		
+GSE158275_LCL_13_vs_2	HDAC_inhibitor	vorinostat	0.0519	HDAC inhibitor	HDAC	override	BRD-K81418486	HA1E	10.0	um	24.0	h	CPC001_HA1E_24H:BRD-K81418486:10.0	5311.0	
+GSE158275_LCL_13_vs_2	NFkB_inhibitor	Parthenolide	0.0519	NF-kB pathway inhibitor	NF-kB (pathway)	curated	BRD-K98548675	A375	10.0	um	24.0	h	CPC006_A375_24H:BRD-K98548675:10.0	6473881.0	
+GSE158275_LCL_13_vs_2	PI3K_inhibitor	wortmannin	0.0667	PI3K inhibitor	PI3K	curated	BRD-A75409952	VCAP	10.0	um	24.0	h	CPC014_VCAP_24H:BRD-A75409952:10.0	5691.0	
+GSE158275_LCL_13_vs_2	TGFb_BMP_pathway	Dorsomorphin dihydrochloride	0.0741	BMP/AMPK inhibitor	ALK2/3/6, AMPK	override	BRD-K54233340	VCAP	10.0	um	24.0	h	CPC004_VCAP_24H:BRD-K54233340:10.0	11524144.0	
+GSE158275_LCL_13_vs_2	Topoisomerase_inhibitor	TENIPOSIDE	0.0519	Topoisomerase II inhibitor	TOP2	override	BRD-A35588707	HCC515	10.0	um	24.0	h	CPC004_HCC515_24H:BRD-A35588707:10.0	6708778.0	
+GSE158275_LCL_13_vs_2	Topoisomerase_inhibitor	mitoxantrone	0.0519	Topoisomerase II poison	TOP2	override	BRD-K21680192	HT29	10.0	um	6.0	h	CPC020_HT29_6H:BRD-K21680192:10.0	5458171.0	
+GSE158275_LCL_13_vs_2	Translation_Stress	Narciclasine	0.0889	translation inhibitor	translation (pathway)	override	BRD-K06792661	HA1E	10.0	um	24.0	h	CPC006_HA1E_24H:BRD-K06792661:10.0	72376.0	
+GSE267750_primary_Bcell_4_vs_18	BET_inhibitor	(+)-JQ1	0.0478	BET bromodomain inhibitor	BRD2/3/4	rule:\b(jq1|i-bet|ibet|bet)\b	BRD-K54606188	HEPG2	0.37	um	24.0	h	LJP008_HEPG2_24H:BRD-K54606188:0.37		
+GSE267750_primary_Bcell_4_vs_18	CDK_inhibitor	CGP-60474	0.0622	CDK inhibitor	CDK (family)	override	BRD-K79090631	HCC515	10.0	um	24.0	h	LJP008_HCC515_24H:BRD-K79090631:10	644215.0	
+GSE267750_primary_Bcell_4_vs_18	CDK_inhibitor	AT-7519	0.0526	CDK inhibitor	CDK (family)	override	BRD-K13390322	HEPG2	1.11	um	24.0	h	LJP006_HEPG2_24H:BRD-K13390322:1.11	11338033.0	
+GSE267750_primary_Bcell_4_vs_18	CXCR2_antagonist	sb 225002	0.0478	CXCR2 antagonist	CXCR2	override	BRD-K61323504	NCIH596	11.1	um	6.0	h	CPC006_NCIH596_6H:BRD-K61323504:11.1	3854666.0	
+GSE267750_primary_Bcell_4_vs_18	FAK_SRC_inhibitor	PF-431396	0.0574	FAK inhibitor	PTK2 (FAK)	override	BRD-K93788137	HA1E	10.0	um	24.0	h	LJP005_HA1E_24H:BRD-K93788137:10	11598628.0	
+GSE267750_primary_Bcell_4_vs_18	GSK3_inhibitor	GSK-3-inhibitor-II	0.0526	GSK3 inhibitor	GSK3A/B	curated	BRD-K09991945	HT29	0.12	um	24.0	h	LJP007_HT29_24H:BRD-K09991945:0.12	6539732.0	
+GSE267750_primary_Bcell_4_vs_18	HDAC_inhibitor	vorinostat	0.0431	HDAC inhibitor	HDAC	override	BRD-K81418486	WSUDLCL2	11.1	um	6.0	h	CPC006_WSUDLCL2_6H:BRD-K81418486:11.1	5311.0	
+GSE267750_primary_Bcell_4_vs_18	JAK_inhibitor	TG101348	0.0766	JAK2 inhibitor	JAK2	override	BRD-K12502280	WSUDLCL2	11.1	um	6.0	h	CPC006_WSUDLCL2_6H:BRD-K12502280:11.1	16722836.0	
+GSE267750_primary_Bcell_4_vs_18	JAK_inhibitor	BMS-387032	0.0574	JAK inhibitor	JAK (family)	override	BRD-K43389698	HCC515	10.0	um	24.0	h	LJP006_HCC515_24H:BRD-K43389698:10	3025986.0	
+GSE267750_primary_Bcell_4_vs_18	NRF2_activator	L-sulforophane	0.0478	NRF2 pathway activator	NRF2 (pathway)	override	BRD-A58955223	SKM1	10.0	um	6.0	h	CPC006_SKM1_6H:BRD-A58955223:10.0	5350.0	
+GSE267750_primary_Bcell_4_vs_18	PLK_inhibitor	GSK-461364	0.0574	PLK1 inhibitor	PLK1	curated	BRD-K92428232	HA1E	1.11	um	24.0	h	LJP008_HA1E_24H:BRD-K92428232:1.11	15983966.0	
+GSE267750_primary_Bcell_4_vs_18	PLK_inhibitor	BI-2536	0.0526	PLK1 inhibitor	PLK1	override	BRD-K64890080	HEPG2	0.12	um	24.0	h	LJP006_HEPG2_24H:BRD-K64890080:0.12	11364421.0	
+GSE267750_primary_Bcell_4_vs_18	RAF_inhibitor	GDC-0879	0.0478	RAF inhibitor	BRAF/CRAF	override	BRD-K67578145	HEPG2	3.33	um	24.0	h	LJP009_HEPG2_24H:BRD-K67578145:3.33	11717001.0	
+GSE267750_primary_Bcell_4_vs_18	TBK1_IKK_inhibitor	BX-795	0.0478	TBK1/IKKε inhibitor	TBK1, IKBKE	override	BRD-K47983010	PL21	10.0	um	6.0	h	CPC006_PL21_6H:BRD-K47983010:10.0	10077147.0	
+GSE267750_primary_Bcell_4_vs_18	Topoisomerase_inhibitor	TENIPOSIDE	0.0622	Topoisomerase II inhibitor	TOP2	override	BRD-A35588707	WSUDLCL2	1.25	um	6.0	h	CPC006_WSUDLCL2_6H:BRD-A35588707:1.25	6708778.0	
+GSE267750_primary_Bcell_4_vs_18	Topoisomerase_inhibitor	mitoxantrone	0.0431	Topoisomerase II poison	TOP2	override	BRD-K21680192	SKBR3	0.37	um	24.0	h	LJP005_SKBR3_24H:BRD-K21680192:0.37	5458171.0	

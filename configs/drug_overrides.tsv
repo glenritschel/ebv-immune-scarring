@@ -1,0 +1,16 @@
+compound	class	moa	target
+dorsomorphin dihydrochloride	TGFb_BMP_pathway	BMP/AMPK inhibitor	ALK2/3/6, AMPK
+narciclasine	Translation_Stress	translation inhibitor	translation (pathway)
+teniposide	Topoisomerase_inhibitor	Topoisomerase II inhibitor	TOP2
+tg101348	JAK_inhibitor	JAK2 inhibitor	JAK2
+bi-2536	PLK_inhibitor	PLK1 inhibitor	PLK1
+vorinostat	HDAC_inhibitor	HDAC inhibitor	HDAC
+mitoxantrone	Topoisomerase_inhibitor	Topoisomerase II poison	TOP2
+cgp-60474	CDK_inhibitor	CDK inhibitor	CDK (family)
+at-7519	CDK_inhibitor	CDK inhibitor	CDK (family)
+bms-387032	JAK_inhibitor	JAK inhibitor	JAK (family)
+pf-431396	FAK_SRC_inhibitor	FAK inhibitor	PTK2 (FAK)
+l-sulforophane	NRF2_activator	NRF2 pathway activator	NRF2 (pathway)
+bx-795	TBK1_IKK_inhibitor	TBK1/IKKε inhibitor	TBK1, IKBKE
+sb 225002	CXCR2_antagonist	CXCR2 antagonist	CXCR2
+gdc-0879	RAF_inhibitor	RAF inhibitor	BRAF/CRAF

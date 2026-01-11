@@ -1,0 +1,75 @@
+compound_normalized	representative_name	representative_class	GSE158275_LCL_13_vs_2	GSE267750_primary_Bcell_4_vs_18	n_signatures_present
++-jq1	(+)-JQ1	BET_inhibitor	0.0519	0.0478	2
+mitoxantrone	mitoxantrone	Topoisomerase_inhibitor	0.0519	0.0431	2
+teniposide	TENIPOSIDE	Topoisomerase_inhibitor	0.0519	0.0622	2
+vorinostat	vorinostat	HDAC_inhibitor	0.0519	0.0431	2
+15-deoxy-1214-prostaglandin j2	15-Deoxy-?12,14-prostaglandin J2	UNMAPPED	0.0593		1
+89671	89671	UNMAPPED	0.0519		1
+alvocidib	alvocidib	UNMAPPED		0.0478	1
+17757146	17757146	UNMAPPED	0.0519		1
+25199533	25199533	UNMAPPED		0.0431	1
+13295	13295	UNMAPPED		0.0478	1
+anisomycin	Anisomycin	UNMAPPED	0.0519		1
+am580	AM580	UNMAPPED	0.0444		1
+alw-ii-38-3	ALW-II-38-3	UNMAPPED		0.0478	1
+at-7519	AT-7519	CDK_inhibitor		0.0526	1
+bx-795	BX-795	TBK1_IKK_inhibitor		0.0478	1
+ca-074-me	CA-074-Me	UNMAPPED		0.0431	1
+bi-2536	BI-2536	PLK_inhibitor		0.0526	1
+b675700cdx	B675700.cdx	UNMAPPED		0.0478	1
+cefixime	Cefixime	UNMAPPED	0.0444		1
+cgp-60474	CGP-60474	CDK_inhibitor		0.0622	1
+ct-200783	CT-200783	UNMAPPED	0.0444		1
+curcubitacin i	curcubitacin I	UNMAPPED	0.0667		1
+cycloheximide	Cycloheximide	UNMAPPED	0.0444		1
+dactinomycin	dactinomycin	UNMAPPED	0.0667		1
+calyculin a	calyculin A	UNMAPPED	0.0593		1
+bms-387032	BMS-387032	JAK_inhibitor		0.0574	1
+dinaciclib	dinaciclib	UNMAPPED		0.0478	1
+dorsomorphin	Dorsomorphin dihydrochloride	TGFb_BMP_pathway	0.0741		1
+gbr 12909	GBR 12909 dihydrochloride	UNMAPPED		0.0431	1
+ei-156	EI-156	UNMAPPED	0.0519		1
+gsk-3-inhibitor-ii	GSK-3-inhibitor-II	GSK3_inhibitor		0.0526	1
+gsk-461364	GSK-461364	PLK_inhibitor		0.0574	1
+hdac6 inhibitor isox	HDAC6 inhibitor ISOX	UNMAPPED		0.0431	1
+gdc-0879	GDC-0879	RAF_inhibitor		0.0478	1
+ici-162846	ICI-162,846	UNMAPPED	0.0444		1
+isoeugenitol	ISOEUGENITOL	UNMAPPED		0.0431	1
+manumycin a	manumycin A	UNMAPPED	0.0444		1
+l-sulforophane	L-sulforophane	NRF2_activator		0.0478	1
+menadione	MENADIONE	UNMAPPED		0.0478	1
+mk-2206	MK-2206	UNMAPPED		0.0431	1
+dasatinib	dasatinib	UNMAPPED		0.0431	1
+cay10618	CAY10618	UNMAPPED	0.0593		1
+mocetinostat	mocetinostat	UNMAPPED		0.0431	1
+mln4924	MLN4924	UNMAPPED	0.0593		1
+mw-a1-12	mw-A1-12	UNMAPPED	0.0519		1
+n-4-methoxyphenyl-4-morpholino-6-pyrrolidin-1-yl-135-triazin-2-amine hw-gc-act02	"""N-(4-methoxyphenyl)-4-morpholino-6-(pyrrolidin-1-yl)-1,3,5-triazin-2-amine hw-gc-act02"""	UNMAPPED		0.0526	1
+ncgc00188700-01	NCGC00188700-01	UNMAPPED	0.0519		1
+nsc 23766	NSC 23766	UNMAPPED		0.0431	1
+narciclasine	Narciclasine	Translation_Stress	0.0889		1
+ncgc00011606-02	NCGC00011606-02	UNMAPPED		0.0431	1
+parthenolide	Parthenolide	NFkB_inhibitor	0.0519		1
+pf-3758309	PF-3758309	UNMAPPED		0.0526	1
+pf-431396	PF-431396	FAK_SRC_inhibitor		0.0574	1
+pk-11195	PK-11195	UNMAPPED	0.0593		1
+prednisolone	PREDNISOLONE ACETATE	UNMAPPED	0.0444		1
+puromycin	PUROMYCIN HYDROCHLORIDE	UNMAPPED	0.0444		1
+nvp-auy922	NVP-AUY922	UNMAPPED	0.0519		1
+parbendazole	Parbendazole	UNMAPPED	0.0519		1
+ql-xii-47	QL-XII-47	UNMAPPED		0.0431	1
+purvalanol a	Purvalanol A	UNMAPPED	0.0444		1
+qs 11	QS 11	UNMAPPED		0.0431	1
+quinacrine	QUINACRINE HYDROCHLORIDE	UNMAPPED	0.0519		1
+s1230	S1230	UNMAPPED	0.0593		1
+sb 225002	sb 225002	CXCR2_antagonist		0.0478	1
+rimcazole	Rimcazole dihydrochloride	UNMAPPED		0.0431	1
+ropinirole	ROPINIROLE	UNMAPPED	0.0444		1
+syk-inhibitor	SYK-inhibitor	UNMAPPED		0.0431	1
+sb 269970	SB 269970 hydrochloride	UNMAPPED	0.0519		1
+t542500	T542500	UNMAPPED	0.1037		1
+t5212475	T5212475	UNMAPPED	0.0593		1
+tg101348	TG101348	JAK_inhibitor		0.0766	1
+tivantinib	tivantinib	UNMAPPED		0.0431	1
+torin-2	torin-2	UNMAPPED		0.0431	1
+wortmannin	wortmannin	PI3K_inhibitor	0.0667		1
