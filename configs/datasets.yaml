@@ -20,3 +20,14 @@ datasets:
     paths:
       raw_dir: data/raw/GSE267750
 
+  GSE195452:
+    geo_accession: GSE195452
+    organism: human
+    notes: "LGR5 expressing skin fibroblasts define a major hub perturbed in Systemic Sclerosis"
+    download:
+      include_patterns: ["h5ad", "mtx", "h5", "tsv", "csv", "tar", "gz"]
+      exclude_patterns: ["fastq", "fq", "bam"]
+    paths:
+      raw_dir: data/raw/GSE195452
+
+
