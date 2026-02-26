@@ -1,0 +1,1437 @@
+{
+  "shareId": "6993ce5b3f54fb005e38a203",
+  "topMeta": [
+    {
+      "DEGcount": 443,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "AHNAK",
+          "ARPC1B",
+          "CANX",
+          "CLIC1",
+          "ENO1",
+          "GDI2",
+          "GNAI2",
+          "GSTP1",
+          "HSP90B1",
+          "PDIA3",
+          "RAC1",
+          "S100A6",
+          "SSR2",
+          "STK24",
+          "VOPP1"
+        ]
+      },
+      "pert_desc": "Homoharringtonine",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K76674262",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "285033",
+      "score": 0.0711,
+      "sig_id": "CPC001_HA1E_24H:BRD-K76674262:10.0"
+    },
+    {
+      "DEGcount": 528,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [
+          "ETS1"
+        ],
+        "up/dn": [
+          "AHNAK",
+          "ARL6IP5",
+          "ARPC1B",
+          "CAPNS1",
+          "CLIC1",
+          "CMTM6",
+          "COTL1",
+          "DYNLL1",
+          "ENO1",
+          "GDI2",
+          "GNAI2",
+          "GSTP1",
+          "LITAF",
+          "PPP1CA",
+          "RBM3",
+          "SEL1L3",
+          "SRGN",
+          "STK24",
+          "TPI1",
+          "VOPP1",
+          "WDR1"
+        ]
+      },
+      "pert_desc": "Narciclasine",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K06792661",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "72376",
+      "score": 0.0711,
+      "sig_id": "CPC006_HA1E_24H:BRD-K06792661:10.0"
+    },
+    {
+      "DEGcount": 266,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [
+          "HIST1H4C",
+          "IGHM",
+          "LTB"
+        ],
+        "up/dn": [
+          "AHNAK",
+          "CANX",
+          "CD164",
+          "CDV3",
+          "ENO1",
+          "EZR",
+          "GDI2",
+          "MCL1",
+          "TMBIM6",
+          "WDR1"
+        ]
+      },
+      "pert_desc": "ERYTHROSINE SODIUM",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K14920963",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "25162930",
+      "score": 0.066,
+      "sig_id": "CPC004_HA1E_24H:BRD-K14920963:10.0"
+    },
+    {
+      "DEGcount": 365,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [
+          "HLA-DRB1"
+        ],
+        "up/dn": [
+          "ARL6IP5",
+          "ARPC1B",
+          "ATP6V0E1",
+          "CALR",
+          "CD164",
+          "GNAI2",
+          "HSP90B1",
+          "LITAF",
+          "METTL7A",
+          "PDIA3",
+          "SEL1L3",
+          "TNIP1"
+        ]
+      },
+      "pert_desc": "Emetine Dihydrochloride Hydrate (74)",
+      "pert_dose": "0.63",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K01976263",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "11957493",
+      "score": 0.0609,
+      "sig_id": "CPC006_HA1E_24H:BRD-K01976263:0.63"
+    },
+    {
+      "DEGcount": 383,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "AHNAK",
+          "ARPC1B",
+          "CALR",
+          "CLIC1",
+          "ENO1",
+          "GDI2",
+          "GNAI2",
+          "HNRNPA3",
+          "HSP90B1",
+          "PDIA3",
+          "RAC1",
+          "SSR2",
+          "VOPP1"
+        ]
+      },
+      "pert_desc": "EMETINE",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A25687296",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "5702048",
+      "score": 0.0508,
+      "sig_id": "CPC004_HA1E_24H:BRD-A25687296:10.0"
+    },
+    {
+      "DEGcount": 405,
+      "cell_id": "HA1E",
+      "drugbank_id": "DB06803",
+      "overlap": {
+        "dn/up": [
+          "FTH1"
+        ],
+        "up/dn": [
+          "ARL6IP1",
+          "ARL6IP5",
+          "ATP6V0E1",
+          "ENO1",
+          "POLR2L",
+          "PPP1CA",
+          "SRSF3",
+          "SUB1",
+          "TMEM50A",
+          "TPI1"
+        ]
+      },
+      "pert_desc": "NICLOSAMIDE",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K35960502",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "4477",
+      "score": 0.0508,
+      "sig_id": "CPC006_HA1E_24H:BRD-K35960502:10.0"
+    },
+    {
+      "DEGcount": 315,
+      "cell_id": "VCAP",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ARL6IP1",
+          "CAPNS1",
+          "COX8A",
+          "GPX4",
+          "LY6E",
+          "MIF",
+          "MZT2B",
+          "POLR2L",
+          "PPP1CA",
+          "RPN2",
+          "SSR4"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K56411643",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "40911229",
+      "score": 0.0508,
+      "sig_id": "CPC006_VCAP_24H:BRD-K56411643:10.0"
+    },
+    {
+      "DEGcount": 183,
+      "cell_id": "SKB",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ARL6IP5",
+          "ARPC1B",
+          "CAPNS1",
+          "GSTP1",
+          "LY6E",
+          "MIF",
+          "PSAP",
+          "PSMB4",
+          "RBM3",
+          "RPN2",
+          "SUMO2"
+        ]
+      },
+      "pert_desc": "NP-004102",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A14178283",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "23986040",
+      "score": 0.0508,
+      "sig_id": "CPC013_SKB_24H:BRD-A14178283:10.0"
+    },
+    {
+      "DEGcount": 290,
+      "cell_id": "VCAP",
+      "overlap": {
+        "dn/up": [
+          "CD74",
+          "IGHM"
+        ],
+        "up/dn": [
+          "ATF4",
+          "C14ORF2",
+          "CD164",
+          "COX7A2",
+          "COX8A",
+          "LY6E",
+          "MIF",
+          "PDIA3",
+          "POLR2L",
+          "PPP1CA",
+          "PSMB4",
+          "SUB1"
+        ]
+      },
+      "pert_desc": "S1230",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K87909389",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "5287969",
+      "score": 0.0508,
+      "sig_id": "CPC013_VCAP_24H:BRD-K87909389:10.0"
+    },
+    {
+      "DEGcount": 181,
+      "cell_id": "A375",
+      "overlap": {
+        "dn/up": [
+          "EEF1D",
+          "HLA-DRA",
+          "NAP1L1",
+          "RPL13",
+          "RPL15",
+          "RPL22",
+          "RPL31",
+          "RPS17",
+          "RPS25"
+        ],
+        "up/dn": [
+          "PLEK",
+          "SRGN"
+        ]
+      },
+      "pert_desc": "GDC-0980",
+      "pert_dose": 0.37,
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A18328003",
+      "pert_time": 24,
+      "pert_time_unit": "h",
+      "score": 0.0508,
+      "sig_id": "LJP005_A375_24H:BRD-A18328003:0.37"
+    },
+    {
+      "DEGcount": 206,
+      "cell_id": "COV644",
+      "overlap": {
+        "dn/up": [
+          "IGHM"
+        ],
+        "up/dn": [
+          "ARPC1B",
+          "ATP5G3",
+          "ATP6V0E1",
+          "CAPNS1",
+          "CD164",
+          "CMTM6",
+          "ENO1",
+          "LYN"
+        ]
+      },
+      "pert_desc": "Dibutyryl-cAMP, sodium salt",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A04706586",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "2460",
+      "score": 0.0457,
+      "sig_id": "CPC006_COV644_6H:BRD-A04706586:10.0"
+    },
+    {
+      "DEGcount": 81,
+      "cell_id": "HCC515",
+      "overlap": {
+        "dn/up": [
+          "RPS11"
+        ],
+        "up/dn": [
+          "ARL6IP5",
+          "CANX",
+          "CD164",
+          "CDV3",
+          "ENO1",
+          "EZR",
+          "GDI2",
+          "MCL1"
+        ]
+      },
+      "pert_desc": "METHYLENE BLUE",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K16406336",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "4139",
+      "score": 0.0457,
+      "sig_id": "CPC006_HCC515_6H:BRD-K16406336:10.0"
+    },
+    {
+      "DEGcount": 292,
+      "cell_id": "SW948",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ARL6IP5",
+          "ARPC1B",
+          "CLIC1",
+          "CSK",
+          "GSTP1",
+          "LY6E",
+          "RPN2",
+          "SEL1L3",
+          "VOPP1",
+          "WDR1"
+        ]
+      },
+      "pert_desc": "Narciclasine",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K06792661",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "72376",
+      "score": 0.0457,
+      "sig_id": "CPC006_SW948_6H:BRD-K06792661:10.0"
+    },
+    {
+      "DEGcount": 297,
+      "cell_id": "VCAP",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "CAPNS1",
+          "CDK2AP2",
+          "COX8A",
+          "LY6E",
+          "MIF",
+          "MKNK2",
+          "MZT2B",
+          "PFN1",
+          "POLR2L",
+          "PPP1CA",
+          "PSMB4",
+          "VIM"
+        ]
+      },
+      "pert_desc": "T5212475",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K62459624",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "2416356",
+      "score": 0.0457,
+      "sig_id": "CPC012_VCAP_24H:BRD-K62459624:10.0"
+    },
+    {
+      "DEGcount": 233,
+      "cell_id": "ASC",
+      "overlap": {
+        "dn/up": [
+          "MS4A1",
+          "RPS11",
+          "TCL1A"
+        ],
+        "up/dn": [
+          "CD164",
+          "HLA-B",
+          "HLA-C",
+          "MTDH",
+          "RBM3",
+          "SRGN"
+        ]
+      },
+      "pert_desc": "7910663",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K03176945",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "1242564",
+      "score": 0.0457,
+      "sig_id": "CPC013_ASC_24H:BRD-K03176945:10.0"
+    },
+    {
+      "DEGcount": 344,
+      "cell_id": "BT20",
+      "overlap": {
+        "dn/up": [
+          "BTG1"
+        ],
+        "up/dn": [
+          "ARL6IP5",
+          "CD164",
+          "ENO1",
+          "GNB1",
+          "HSP90B1",
+          "PDIA3",
+          "PLAC8",
+          "RPN2",
+          "SRGN",
+          "UBE2J1"
+        ]
+      },
+      "pert_desc": "QL-XII-47",
+      "pert_dose": 0.37,
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K99252563",
+      "pert_time": 24,
+      "pert_time_unit": "h",
+      "pubchem_id": "71748056",
+      "score": 0.0457,
+      "sig_id": "LJP006_BT20_24H:BRD-K99252563:0.37"
+    },
+    {
+      "DEGcount": 199,
+      "cell_id": "HME1",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "CAB39",
+          "CANX",
+          "CD164",
+          "CDV3",
+          "EZR",
+          "GDI2",
+          "HSP90B1",
+          "MCL1",
+          "MKNK2",
+          "WDR1"
+        ]
+      },
+      "pert_desc": "celastrol",
+      "pert_dose": 10,
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A24396574",
+      "pert_time": 3,
+      "pert_time_unit": "h",
+      "pubchem_id": "73707365",
+      "score": 0.0457,
+      "sig_id": "LJP006_HME1_3H:BRD-A24396574:10"
+    },
+    {
+      "DEGcount": 358,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "AHNAK",
+          "ARL6IP5",
+          "ARPC1B",
+          "CALR",
+          "CLIC1",
+          "ENO1",
+          "GNAI2",
+          "SEL1L3",
+          "STK24",
+          "VOPP1",
+          "WDR1"
+        ]
+      },
+      "pert_desc": "Anisomycin",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K91370081",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "253602",
+      "score": 0.0406,
+      "sig_id": "CPC002_HA1E_24H:BRD-K91370081:10.0"
+    },
+    {
+      "DEGcount": 345,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "AHNAK",
+          "ARPC1B",
+          "CD164",
+          "CLIC1",
+          "DYNLL1",
+          "GDI2",
+          "HSP90B1",
+          "MKNK2",
+          "SEL1L3"
+        ]
+      },
+      "pert_desc": "EMETINE",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A25687296",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "5702048",
+      "score": 0.0406,
+      "sig_id": "CPC004_HA1E_6H:BRD-A25687296:10.0"
+    },
+    {
+      "DEGcount": 205,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [
+          "IGHM"
+        ],
+        "up/dn": [
+          "ATP5G3",
+          "ATP6V0E1",
+          "CANX",
+          "CD164",
+          "CDV3",
+          "GDI2",
+          "WDR1"
+        ]
+      },
+      "pert_desc": "ERYTHROSINE SODIUM",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K14920963",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "25162930",
+      "score": 0.0406,
+      "sig_id": "CPC004_HA1E_6H:BRD-K14920963:10.0"
+    },
+    {
+      "DEGcount": 235,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [
+          "IGHM"
+        ],
+        "up/dn": [
+          "CDK2AP2",
+          "ENO1",
+          "GDI2",
+          "GSTP1",
+          "HLA-B",
+          "HLA-C",
+          "MZT2B",
+          "NEDD8",
+          "PPP1CA",
+          "TNIP1"
+        ]
+      },
+      "pert_desc": "calyculin A",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A47513740",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "16760037",
+      "score": 0.0406,
+      "sig_id": "CPC005_HA1E_24H:BRD-A47513740:10.0"
+    },
+    {
+      "DEGcount": 502,
+      "cell_id": "A375",
+      "overlap": {
+        "dn/up": [
+          "BTG1"
+        ],
+        "up/dn": [
+          "ARL6IP1",
+          "ARL6IP5",
+          "CAPNS1",
+          "GSTP1",
+          "HNRNPA3",
+          "LY6E",
+          "SRSF3",
+          "STK24",
+          "SUMO2"
+        ]
+      },
+      "pert_desc": "TENIPOSIDE",
+      "pert_dose": "1.25",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A35588707",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "6708778",
+      "score": 0.0406,
+      "sig_id": "CPC006_A375_24H:BRD-A35588707:1.25"
+    },
+    {
+      "DEGcount": 292,
+      "cell_id": "A375",
+      "overlap": {
+        "dn/up": [
+          "NSA2",
+          "RPL15",
+          "RPL22",
+          "RPL31"
+        ],
+        "up/dn": [
+          "ENO1",
+          "GSTP1",
+          "METTL7A",
+          "PLAC8",
+          "SRSF3",
+          "SUB1"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "0.63",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K12184916",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "11977753",
+      "score": 0.0406,
+      "sig_id": "CPC006_A375_24H:BRD-K12184916:0.63"
+    },
+    {
+      "DEGcount": 473,
+      "cell_id": "A375",
+      "overlap": {
+        "dn/up": [
+          "BTG1",
+          "ETS1",
+          "LAPTM5",
+          "RPL10",
+          "RPL37A"
+        ],
+        "up/dn": [
+          "ARL6IP1",
+          "DYNLL1",
+          "PPP1CA",
+          "SEL1L3",
+          "TMEM50A",
+          "UBE2I"
+        ]
+      },
+      "pert_desc": "TW 37",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K28360340",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "11455910",
+      "score": 0.0406,
+      "sig_id": "CPC006_A375_24H:BRD-K28360340:10.0"
+    },
+    {
+      "DEGcount": 432,
+      "cell_id": "A375",
+      "drugbank_id": "DB06803",
+      "overlap": {
+        "dn/up": [
+          "BTG1",
+          "FTH1"
+        ],
+        "up/dn": [
+          "ARL6IP1",
+          "DYNLL1",
+          "ENO1",
+          "RAN",
+          "RBM3",
+          "SEPT6",
+          "SRSF3",
+          "SUB1"
+        ]
+      },
+      "pert_desc": "NICLOSAMIDE",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K35960502",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "4477",
+      "score": 0.0406,
+      "sig_id": "CPC006_A375_24H:BRD-K35960502:10.0"
+    },
+    {
+      "DEGcount": 405,
+      "cell_id": "A375",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ANXA2",
+          "ARL6IP5",
+          "ARPC1B",
+          "CALR",
+          "CLIC1",
+          "GDI2",
+          "GSTP1",
+          "HSP90B1",
+          "S100A6",
+          "SRSF3",
+          "TMEM50A"
+        ]
+      },
+      "pert_desc": "528116.cdx",
+      "pert_dose": "0.09",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K49371609",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "10275789",
+      "score": 0.0406,
+      "sig_id": "CPC006_A375_24H:BRD-K49371609:0.09"
+    },
+    {
+      "DEGcount": 482,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [
+          "BTG1",
+          "ETS1"
+        ],
+        "up/dn": [
+          "ARL6IP5",
+          "ARPC1B",
+          "CAPNS1",
+          "CLIC1",
+          "CSK",
+          "GDI2",
+          "LY6E",
+          "SEL1L3",
+          "TPI1"
+        ]
+      },
+      "pert_desc": "Narciclasine",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K06792661",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "72376",
+      "score": 0.0406,
+      "sig_id": "CPC006_HA1E_6H:BRD-K06792661:10.0"
+    },
+    {
+      "DEGcount": 406,
+      "cell_id": "MCF7",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ARPC1B",
+          "GSTP1",
+          "IFI30",
+          "METTL7A",
+          "PDIA3",
+          "PSAP",
+          "SEL1L3",
+          "VIM",
+          "VOPP1"
+        ]
+      },
+      "pert_desc": "Emetine Dihydrochloride Hydrate (74)",
+      "pert_dose": "0.63",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K01976263",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "11957493",
+      "score": 0.0406,
+      "sig_id": "CPC006_MCF7_24H:BRD-K01976263:0.63"
+    },
+    {
+      "DEGcount": 188,
+      "cell_id": "NCIH508",
+      "overlap": {
+        "dn/up": [
+          "IGHM"
+        ],
+        "up/dn": [
+          "ARL6IP5",
+          "ARPC1B",
+          "ENO1",
+          "GDI2",
+          "PLAC8",
+          "RPN2",
+          "WDR1"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K04853698",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "25195294",
+      "score": 0.0406,
+      "sig_id": "CPC006_NCIH508_6H:BRD-K04853698:10.0"
+    },
+    {
+      "DEGcount": 162,
+      "cell_id": "NOMO1",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ARL6IP1",
+          "ARL6IP5",
+          "ATP6V0E1",
+          "METTL7A",
+          "PLAC8",
+          "PLEK",
+          "SRGN",
+          "VOPP1"
+        ]
+      },
+      "pert_desc": "curcumin",
+      "pert_dose": "48.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K74148702",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "16760039",
+      "score": 0.0406,
+      "sig_id": "CPC006_NOMO1_6H:BRD-K74148702:48.0"
+    },
+    {
+      "DEGcount": 164,
+      "cell_id": "SW948",
+      "overlap": {
+        "dn/up": [
+          "IGHM"
+        ],
+        "up/dn": [
+          "ARL6IP1",
+          "ARL6IP5",
+          "COX8A",
+          "CSK",
+          "ENO1",
+          "LY6E",
+          "VIM"
+        ]
+      },
+      "pert_desc": "manumycin A",
+      "pert_dose": "9.08",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K78599730",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "44483259",
+      "score": 0.0406,
+      "sig_id": "CPC006_SW948_6H:BRD-K78599730:9.08"
+    },
+    {
+      "DEGcount": 143,
+      "cell_id": "TYKNU",
+      "overlap": {
+        "dn/up": [
+          "BTG1",
+          "RPL37A",
+          "RPL38",
+          "RPS11"
+        ],
+        "up/dn": [
+          "C14ORF2",
+          "EIF4A1",
+          "GSTP1",
+          "UBE2J1"
+        ]
+      },
+      "pert_desc": "AZD8055",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K69932463",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "25262965",
+      "score": 0.0406,
+      "sig_id": "CPC006_TYKNU_6H:BRD-K69932463:10.0"
+    },
+    {
+      "DEGcount": 147,
+      "cell_id": "NPC",
+      "overlap": {
+        "dn/up": [
+          "CD74",
+          "LTB"
+        ],
+        "up/dn": [
+          "ARL6IP1",
+          "COTL1",
+          "GNB1",
+          "GSTP1",
+          "LY6E",
+          "PPP1CA"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A25337146",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "24747642",
+      "score": 0.0406,
+      "sig_id": "CPC014_NPC_24H:BRD-A25337146:10.0"
+    },
+    {
+      "DEGcount": 314,
+      "cell_id": "NPC",
+      "overlap": {
+        "dn/up": [
+          "FTH1",
+          "IGHM",
+          "RPL10"
+        ],
+        "up/dn": [
+          "ARL6IP1",
+          "GNAI2",
+          "GSTP1",
+          "MIF",
+          "POLR2L",
+          "PPP1CA",
+          "VIM"
+        ]
+      },
+      "pert_desc": "GR-103",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K89085489",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "5288209",
+      "score": 0.0406,
+      "sig_id": "CPC014_NPC_24H:BRD-K89085489:10.0"
+    },
+    {
+      "DEGcount": 267,
+      "cell_id": "ASC",
+      "overlap": {
+        "dn/up": [
+          "CD79A",
+          "IGHM",
+          "MS4A1"
+        ],
+        "up/dn": [
+          "CD164",
+          "COX7A2",
+          "HLA-B",
+          "MTDH",
+          "SRGN"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A11605036",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "72067",
+      "score": 0.0406,
+      "sig_id": "CPC015_ASC_24H:BRD-A11605036:10.0"
+    },
+    {
+      "DEGcount": 305,
+      "cell_id": "SKB",
+      "overlap": {
+        "dn/up": [
+          "ETS1"
+        ],
+        "up/dn": [
+          "CD164",
+          "GDI2",
+          "GNAI2",
+          "GSTP1",
+          "RPN2",
+          "SEL1L3",
+          "SUB1",
+          "TPI1"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K80348542",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "442195",
+      "score": 0.0406,
+      "sig_id": "CPC016_SKB_24H:BRD-K80348542:10.0"
+    },
+    {
+      "DEGcount": 204,
+      "cell_id": "SKB",
+      "overlap": {
+        "dn/up": [
+          "CD74",
+          "HLA-DRA",
+          "IGHM"
+        ],
+        "up/dn": [
+          "ARL6IP5",
+          "GSTP1",
+          "LY6E",
+          "SEL1L3",
+          "TMEM50A"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K24132293",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "637858",
+      "score": 0.0406,
+      "sig_id": "CPC017_SKB_24H:BRD-K24132293:10.0"
+    },
+    {
+      "DEGcount": 352,
+      "cell_id": "A375",
+      "overlap": {
+        "dn/up": [
+          "CD74",
+          "HLA-DRA",
+          "HLA-DRB1",
+          "RPL31"
+        ],
+        "up/dn": [
+          "ENO1",
+          "PTGES3",
+          "RAN",
+          "SRSF3"
+        ]
+      },
+      "pert_desc": "PD-0325901",
+      "pert_dose": 0.37,
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K49865102",
+      "pert_time": 24,
+      "pert_time_unit": "h",
+      "pubchem_id": "9826528",
+      "score": 0.0406,
+      "sig_id": "LJP005_A375_24H:BRD-K49865102:0.37"
+    },
+    {
+      "DEGcount": 176,
+      "cell_id": "BT20",
+      "overlap": {
+        "dn/up": [
+          "EEF1D",
+          "RPL37A",
+          "RPL38",
+          "RPLP2",
+          "RPS11"
+        ],
+        "up/dn": [
+          "CALR",
+          "MKNK2",
+          "TMEM50A",
+          "UBE2J1"
+        ]
+      },
+      "pert_desc": "BMS-387032",
+      "pert_dose": 0.12,
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K43389698",
+      "pert_time": 24,
+      "pert_time_unit": "h",
+      "pubchem_id": "3025986",
+      "score": 0.0406,
+      "sig_id": "LJP006_BT20_24H:BRD-K43389698:0.12"
+    },
+    {
+      "DEGcount": 103,
+      "cell_id": "MCF10A",
+      "overlap": {
+        "dn/up": [
+          "LAPTM5"
+        ],
+        "up/dn": [
+          "CANX",
+          "CD164",
+          "CDV3",
+          "ENO1",
+          "EZR",
+          "HSP90B1",
+          "MCL1"
+        ]
+      },
+      "pert_desc": "PHA-793887",
+      "pert_dose": 0.12,
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K64800655",
+      "pert_time": 3,
+      "pert_time_unit": "h",
+      "pubchem_id": "46191454",
+      "score": 0.0406,
+      "sig_id": "LJP006_MCF10A_3H:BRD-K64800655:0.12"
+    },
+    {
+      "DEGcount": 272,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "CALR",
+          "CAPNS1",
+          "HSP90B1",
+          "LY6E",
+          "MKNK2",
+          "SEL1L3",
+          "TPI1"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K80348542",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "442195",
+      "score": 0.0355,
+      "sig_id": "CPC002_HA1E_6H:BRD-K80348542:10.0"
+    },
+    {
+      "DEGcount": 459,
+      "cell_id": "A375",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ARL6IP5",
+          "ATP6V0E1",
+          "CAPNS1",
+          "CDK2AP2",
+          "GSTP1",
+          "HLA-B",
+          "MZT2B",
+          "NEDD8",
+          "POLR2L",
+          "PPP1CA",
+          "SSR4",
+          "TMBIM6"
+        ]
+      },
+      "pert_desc": "Parthenolide",
+      "pert_dose": "20.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K81651477",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "5420804",
+      "score": 0.0355,
+      "sig_id": "CPC006_A375_24H:BRD-K81651477:20.0"
+    },
+    {
+      "DEGcount": 379,
+      "cell_id": "HA1E",
+      "overlap": {
+        "dn/up": [
+          "FTH1",
+          "LAPTM5"
+        ],
+        "up/dn": [
+          "ARL6IP1",
+          "ARL6IP5",
+          "GNB1",
+          "PLAC8",
+          "POLR2L",
+          "PPP1CA",
+          "SRSF3"
+        ]
+      },
+      "pert_desc": "thiazolopyrimidine",
+      "pert_dose": "40.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A75517195",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "5758458",
+      "score": 0.0355,
+      "sig_id": "CPC006_HA1E_24H:BRD-A75517195:40.0"
+    },
+    {
+      "DEGcount": 475,
+      "cell_id": "HT29",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ARPC1B",
+          "CLIC1",
+          "ENO1",
+          "GSTP1",
+          "LY6E",
+          "P2RX5",
+          "PLAC8",
+          "SEL1L3",
+          "VOPP1"
+        ]
+      },
+      "pert_desc": "Narciclasine",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K06792661",
+      "pert_time": "24.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "72376",
+      "score": 0.0355,
+      "sig_id": "CPC006_HT29_24H:BRD-K06792661:10.0"
+    },
+    {
+      "DEGcount": 208,
+      "cell_id": "NOMO1",
+      "overlap": {
+        "dn/up": [],
+        "up/dn": [
+          "ARL6IP1",
+          "ARL6IP5",
+          "LY6E",
+          "PLAC8",
+          "PLEK",
+          "SRGN",
+          "TNIP1"
+        ]
+      },
+      "pert_desc": "HLI 373",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K17349619",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "435678",
+      "score": 0.0355,
+      "sig_id": "CPC006_NOMO1_6H:BRD-K17349619:10.0"
+    },
+    {
+      "DEGcount": 181,
+      "cell_id": "PL21",
+      "overlap": {
+        "dn/up": [
+          "CD74",
+          "FTH1",
+          "HLA-DRA",
+          "IGHM"
+        ],
+        "up/dn": [
+          "METTL7A",
+          "PLAC8",
+          "RPN2"
+        ]
+      },
+      "pert_desc": "Parthenolide",
+      "pert_dose": "20.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K81651477",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "5420804",
+      "score": 0.0355,
+      "sig_id": "CPC006_PL21_6H:BRD-K81651477:20.0"
+    },
+    {
+      "DEGcount": 171,
+      "cell_id": "RKO",
+      "drugbank_id": "DB00933",
+      "overlap": {
+        "dn/up": [
+          "CD74",
+          "HLA-DRA",
+          "IGHM"
+        ],
+        "up/dn": [
+          "CAPNS1",
+          "GSTP1",
+          "MTDH",
+          "PLAC8",
+          "SUB1"
+        ]
+      },
+      "pert_desc": "MESORIDAZINE",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-A14395271",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "4078",
+      "score": 0.0355,
+      "sig_id": "CPC006_RKO_6H:BRD-A14395271:10.0"
+    },
+    {
+      "DEGcount": 317,
+      "cell_id": "SW620",
+      "overlap": {
+        "dn/up": [
+          "HIST1H4C"
+        ],
+        "up/dn": [
+          "CANX",
+          "CAPNS1",
+          "ENO1",
+          "HSP90B1",
+          "SEL1L3",
+          "TPI1"
+        ]
+      },
+      "pert_desc": "Narciclasine",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K06792661",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "72376",
+      "score": 0.0355,
+      "sig_id": "CPC006_SW620_6H:BRD-K06792661:10.0"
+    },
+    {
+      "DEGcount": 157,
+      "cell_id": "SW948",
+      "overlap": {
+        "dn/up": [
+          "CD74",
+          "IGHM"
+        ],
+        "up/dn": [
+          "ARL6IP5",
+          "ARPC1B",
+          "ATP6V0E1",
+          "DYNLL1",
+          "ENO1",
+          "RPN2"
+        ]
+      },
+      "pert_desc": "-666",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K32536677",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "2130404",
+      "score": 0.0355,
+      "sig_id": "CPC006_SW948_6H:BRD-K32536677:10.0"
+    },
+    {
+      "DEGcount": 153,
+      "cell_id": "SW948",
+      "overlap": {
+        "dn/up": [
+          "CD74",
+          "HIST1H4C"
+        ],
+        "up/dn": [
+          "ATP6V0E1",
+          "CSK",
+          "DYNLL1",
+          "GSTP1",
+          "SRSF3"
+        ]
+      },
+      "pert_desc": "AZD8055",
+      "pert_dose": "10.0",
+      "pert_dose_unit": "um",
+      "pert_id": "BRD-K69932463",
+      "pert_time": "6.0",
+      "pert_time_unit": "h",
+      "pubchem_id": "25262965",
+      "score": 0.0355,
+      "sig_id": "CPC006_SW948_6H:BRD-K69932463:10.0"
+    }
+  ]
+}

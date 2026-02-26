@@ -1,0 +1,6 @@
+signature_name	class	n_hits	n_unique_compounds	score_mean	score_median	score_max	sig_total_hits	sig_total_unique	frac_hits	frac_unique_compounds	rank_within_signature
+GSE195452_bcells_cluster2	dye/unclear	2	1	0.0533	0.0533	0.066	33	23	0.06060606060606061	0.043478260869565216	1
+GSE195452_bcells_cluster2	protein_synthesis_inhibitor	11	5	0.048454545454545445	0.0406	0.0711	33	23	0.3333333333333333	0.21739130434782608	2
+GSE195452_bcells_cluster2	mitochondrial_uncoupler	2	1	0.0457	0.0457	0.0508	33	23	0.06060606060606061	0.043478260869565216	3
+GSE195452_bcells_cluster2	NFkB_inhibitor	4	3	0.039325	0.03805	0.0457	33	23	0.12121212121212122	0.13043478260869565	4
+GSE195452_bcells_cluster2	mTOR_inhibitor	2	1	0.03805	0.03805	0.0406	33	23	0.06060606060606061	0.043478260869565216	5

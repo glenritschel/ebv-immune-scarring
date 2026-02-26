@@ -1,0 +1,41 @@
+compound	class	moa	target
+AZD8055	mTOR_inhibitor	mTORC1/2 inhibitor	MTOR
+GDC-0980	PI3K_mTOR_inhibitor	PI3K/mTOR dual inhibitor	PIK3CA/PIK3CD/MTOR
+PD-0325901	MEK_inhibitor	MEK1/2 inhibitor	MAP2K1/MAP2K2
+PHA-793887	CDK_inhibitor	CDK inhibitor (pan)	CDK2/CDK5/CDK7
+QL-XII-47	BTK_inhibitor	covalent kinase inhibitor (BTK/TEC-family)	BTK
+TW 37	BCL2_inhibitor	BCL-2 family inhibitor	BCL2/BCL2L1
+calyculin A	PP2A_inhibitor	PP1/PP2A phosphatase inhibitor	PPP1CA/PPP2CA
+Anisomycin	protein_synthesis_inhibitor	translation inhibitor (ribosome)	RPL/RPS (ribosome)
+Homoharringtonine	protein_synthesis_inhibitor	translation inhibitor (elongation block)	RPL/RPS (ribosome)
+Narciclasine	protein_synthesis_inhibitor	translation inhibitor / cytoskeletal effects	RPL/RPS (ribosome)
+EMETINE	protein_synthesis_inhibitor	translation inhibitor (40S)	RPL/RPS (ribosome)
+Emetine Dihydrochloride Hydrate (74)	protein_synthesis_inhibitor	translation inhibitor (40S)	RPL/RPS (ribosome)
+NICLOSAMIDE	mitochondrial_uncoupler	mitochondrial uncoupler / pleiotropic signaling	mitochondria
+Dibutyryl-cAMP, sodium salt	cAMP_agonist	cAMP analog / PKA activator	PRKACA
+celastrol	NFkB_inhibitor	stress-response / NF-kB pathway suppression	NF-kB (pathway)
+curcumin	NFkB_inhibitor	polypharmacology; NF-kB pathway suppression	NF-kB (pathway)
+manumycin A	farnesyltransferase_inhibitor	farnesyltransferase inhibitor	FNTA/FNTB
+METHYLENE BLUE	redox_agent	redox cycling agent; pleiotropic	mitochondria
+MESORIDAZINE	dopamine_antagonist	antipsychotic (D2 antagonist)	DRD2
+ERYTHROSINE SODIUM	dye/unclear	food dye; unclear mechanism	unknown
+AZD8055	mTOR_inhibitor	mTORC1/2 inhibitor	MTOR
+GDC-0980	PI3K_mTOR_inhibitor	PI3K/mTOR dual inhibitor	PIK3CA/PIK3CD/MTOR
+PD-0325901	MEK_inhibitor	MEK1/2 inhibitor	MAP2K1/MAP2K2
+PHA-793887	CDK_inhibitor	CDK inhibitor (pan)	CDK2/CDK5/CDK7
+QL-XII-47	BTK_inhibitor	covalent kinase inhibitor (BTK/TEC-family)	BTK
+TW 37	BCL2_inhibitor	BCL-2 family inhibitor	BCL2/BCL2L1
+calyculin A	PP2A_inhibitor	PP1/PP2A phosphatase inhibitor	PPP1CA/PPP2CA
+Anisomycin	protein_synthesis_inhibitor	translation inhibitor (ribosome)	RPL/RPS (ribosome)
+Homoharringtonine	protein_synthesis_inhibitor	translation inhibitor (elongation block)	RPL/RPS (ribosome)
+Narciclasine	protein_synthesis_inhibitor	translation inhibitor / cytoskeletal effects	RPL/RPS (ribosome)
+EMETINE	protein_synthesis_inhibitor	translation inhibitor (40S)	RPL/RPS (ribosome)
+Emetine Dihydrochloride Hydrate (74)	protein_synthesis_inhibitor	translation inhibitor (40S)	RPL/RPS (ribosome)
+NICLOSAMIDE	mitochondrial_uncoupler	mitochondrial uncoupler / pleiotropic signaling	mitochondria
+Dibutyryl-cAMP, sodium salt	cAMP_agonist	cAMP analog / PKA activator	PRKACA
+celastrol	NFkB_inhibitor	stress-response / NF-kB pathway suppression	NF-kB (pathway)
+curcumin	NFkB_inhibitor	polypharmacology; NF-kB pathway suppression	NF-kB (pathway)
+manumycin A	farnesyltransferase_inhibitor	farnesyltransferase inhibitor	FNTA/FNTB
+METHYLENE BLUE	redox_agent	redox cycling agent; pleiotropic	mitochondria
+MESORIDAZINE	dopamine_antagonist	antipsychotic (D2 antagonist)	DRD2
+ERYTHROSINE SODIUM	dye/unclear	food dye; unclear mechanism	unknown

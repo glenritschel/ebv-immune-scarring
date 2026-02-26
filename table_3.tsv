@@ -1,0 +1,24 @@
+signature_name	class	compound_raw	score	moa	target	source	pert_id	cell_id	pert_dose	pert_dose_unit	pert_time	pert_time_unit	sig_id	pubchem_id	drugchem_id
+GSE195452_bcells_cluster2	BCL2_inhibitor	TW 37	0.0406	BCL-2 family inhibitor	BCL2/BCL2L1	override	BRD-K28360340	A375	10.0	um	24.0	h	CPC006_A375_24H:BRD-K28360340:10.0	11455910.0	
+GSE195452_bcells_cluster2	BTK_inhibitor	QL-XII-47	0.0457	covalent kinase inhibitor (BTK/TEC-family)	BTK	override	BRD-K99252563	BT20	0.37	um	24.0	h	LJP006_BT20_24H:BRD-K99252563:0.37	71748056.0	
+GSE195452_bcells_cluster2	CDK_inhibitor	PHA-793887	0.0406	CDK inhibitor (pan)	CDK2/CDK5/CDK7	override	BRD-K64800655	MCF10A	0.12	um	3.0	h	LJP006_MCF10A_3H:BRD-K64800655:0.12	46191454.0	
+GSE195452_bcells_cluster2	JAK_inhibitor	BMS-387032	0.0406	JAK inhibitor	JAK (family)	curated	BRD-K43389698	BT20	0.12	um	24.0	h	LJP006_BT20_24H:BRD-K43389698:0.12	3025986.0	
+GSE195452_bcells_cluster2	MEK_inhibitor	PD-0325901	0.0406	MEK1/2 inhibitor	MAP2K1/MAP2K2	override	BRD-K49865102	A375	0.37	um	24.0	h	LJP005_A375_24H:BRD-K49865102:0.37	9826528.0	
+GSE195452_bcells_cluster2	NFkB_inhibitor	celastrol	0.0457	stress-response / NF-kB pathway suppression	NF-kB (pathway)	override	BRD-A24396574	HME1	10.0	um	3.0	h	LJP006_HME1_3H:BRD-A24396574:10	73707365.0	
+GSE195452_bcells_cluster2	NFkB_inhibitor	curcumin	0.0406	polypharmacology; NF-kB pathway suppression	NF-kB (pathway)	override	BRD-K74148702	NOMO1	48.0	um	6.0	h	CPC006_NOMO1_6H:BRD-K74148702:48.0	16760039.0	
+GSE195452_bcells_cluster2	NFkB_inhibitor	Parthenolide	0.0355	NF-kB pathway inhibitor	NF-kB (pathway)	curated	BRD-K81651477	A375	20.0	um	24.0	h	CPC006_A375_24H:BRD-K81651477:20.0	5420804.0	
+GSE195452_bcells_cluster2	PI3K_mTOR_inhibitor	GDC-0980	0.0508	PI3K/mTOR dual inhibitor	PIK3CA/PIK3CD/MTOR	override	BRD-A18328003	A375	0.37	um	24.0	h	LJP005_A375_24H:BRD-A18328003:0.37		
+GSE195452_bcells_cluster2	PP2A_inhibitor	calyculin A	0.0406	PP1/PP2A phosphatase inhibitor	PPP1CA/PPP2CA	override	BRD-A47513740	HA1E	10.0	um	24.0	h	CPC005_HA1E_24H:BRD-A47513740:10.0	16760037.0	
+GSE195452_bcells_cluster2	Topoisomerase_inhibitor	TENIPOSIDE	0.0406	Topoisomerase II inhibitor	TOP2	curated	BRD-A35588707	A375	1.25	um	24.0	h	CPC006_A375_24H:BRD-A35588707:1.25	6708778.0	
+GSE195452_bcells_cluster2	cAMP_agonist	Dibutyryl-cAMP, sodium salt	0.0457	cAMP analog / PKA activator	PRKACA	override	BRD-A04706586	COV644	10.0	um	6.0	h	CPC006_COV644_6H:BRD-A04706586:10.0	2460.0	
+GSE195452_bcells_cluster2	dopamine_antagonist	MESORIDAZINE	0.0355	antipsychotic (D2 antagonist)	DRD2	override	BRD-A14395271	RKO	10.0	um	6.0	h	CPC006_RKO_6H:BRD-A14395271:10.0	4078.0	
+GSE195452_bcells_cluster2	dye/unclear	ERYTHROSINE SODIUM	0.066	food dye; unclear mechanism	unknown	override	BRD-K14920963	HA1E	10.0	um	24.0	h	CPC004_HA1E_24H:BRD-K14920963:10.0	25162930.0	
+GSE195452_bcells_cluster2	farnesyltransferase_inhibitor	manumycin A	0.0406	farnesyltransferase inhibitor	FNTA/FNTB	override	BRD-K78599730	SW948	9.08	um	6.0	h	CPC006_SW948_6H:BRD-K78599730:9.08	44483259.0	
+GSE195452_bcells_cluster2	mTOR_inhibitor	AZD8055	0.0406	mTORC1/2 inhibitor	MTOR	override	BRD-K69932463	TYKNU	10.0	um	6.0	h	CPC006_TYKNU_6H:BRD-K69932463:10.0	25262965.0	
+GSE195452_bcells_cluster2	mitochondrial_uncoupler	NICLOSAMIDE	0.0508	mitochondrial uncoupler / pleiotropic signaling	mitochondria	override	BRD-K35960502	HA1E	10.0	um	24.0	h	CPC006_HA1E_24H:BRD-K35960502:10.0	4477.0	
+GSE195452_bcells_cluster2	protein_synthesis_inhibitor	Homoharringtonine	0.0711	translation inhibitor (elongation block)	RPL/RPS (ribosome)	override	BRD-K76674262	HA1E	10.0	um	24.0	h	CPC001_HA1E_24H:BRD-K76674262:10.0	285033.0	
+GSE195452_bcells_cluster2	protein_synthesis_inhibitor	Narciclasine	0.0711	translation inhibitor / cytoskeletal effects	RPL/RPS (ribosome)	override	BRD-K06792661	HA1E	10.0	um	24.0	h	CPC006_HA1E_24H:BRD-K06792661:10.0	72376.0	
+GSE195452_bcells_cluster2	protein_synthesis_inhibitor	Emetine Dihydrochloride Hydrate (74)	0.0609	translation inhibitor (40S)	RPL/RPS (ribosome)	override	BRD-K01976263	HA1E	0.63	um	24.0	h	CPC006_HA1E_24H:BRD-K01976263:0.63	11957493.0	
+GSE195452_bcells_cluster2	protein_synthesis_inhibitor	EMETINE	0.0508	translation inhibitor (40S)	RPL/RPS (ribosome)	override	BRD-A25687296	HA1E	10.0	um	24.0	h	CPC004_HA1E_24H:BRD-A25687296:10.0	5702048.0	
+GSE195452_bcells_cluster2	protein_synthesis_inhibitor	Anisomycin	0.0406	translation inhibitor (ribosome)	RPL/RPS (ribosome)	override	BRD-K91370081	HA1E	10.0	um	24.0	h	CPC002_HA1E_24H:BRD-K91370081:10.0	253602.0	
+GSE195452_bcells_cluster2	redox_agent	METHYLENE BLUE	0.0457	redox cycling agent; pleiotropic	mitochondria	override	BRD-K16406336	HCC515	10.0	um	6.0	h	CPC006_HCC515_6H:BRD-K16406336:10.0	4139.0	

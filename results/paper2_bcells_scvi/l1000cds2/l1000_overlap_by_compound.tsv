@@ -1,0 +1,32 @@
+compound_normalized	representative_name	representative_class	GSE195452_bcells_cluster2	n_signatures_present
+528116cdx	528116.cdx	UNMAPPED	0.0406	1
+7910663	7910663	UNMAPPED	0.0457	1
+anisomycin	Anisomycin	protein_synthesis_inhibitor	0.0406	1
+azd8055	AZD8055	mTOR_inhibitor	0.0406	1
+bms-387032	BMS-387032	JAK_inhibitor	0.0406	1
+calyculin a	calyculin A	PP2A_inhibitor	0.0406	1
+celastrol	celastrol	NFkB_inhibitor	0.0457	1
+curcumin	curcumin	NFkB_inhibitor	0.0406	1
+dibutyryl-camp	Dibutyryl-cAMP, sodium salt	cAMP_agonist	0.0457	1
+emetine	EMETINE	protein_synthesis_inhibitor	0.0508	1
+emetine dihydrochloride hydrate 74	Emetine Dihydrochloride Hydrate (74)	protein_synthesis_inhibitor	0.0609	1
+erythrosine sodium	ERYTHROSINE SODIUM	dye/unclear	0.066	1
+gdc-0980	GDC-0980	PI3K_mTOR_inhibitor	0.0508	1
+gr-103	GR-103	UNMAPPED	0.0406	1
+hli 373	HLI 373	UNMAPPED	0.0355	1
+homoharringtonine	Homoharringtonine	protein_synthesis_inhibitor	0.0711	1
+manumycin a	manumycin A	farnesyltransferase_inhibitor	0.0406	1
+mesoridazine	MESORIDAZINE	dopamine_antagonist	0.0355	1
+methylene blue	METHYLENE BLUE	redox_agent	0.0457	1
+narciclasine	Narciclasine	protein_synthesis_inhibitor	0.0711	1
+niclosamide	NICLOSAMIDE	mitochondrial_uncoupler	0.0508	1
+np-004102	NP-004102	UNMAPPED	0.0508	1
+parthenolide	Parthenolide	NFkB_inhibitor	0.0355	1
+pd-0325901	PD-0325901	MEK_inhibitor	0.0406	1
+pha-793887	PHA-793887	CDK_inhibitor	0.0406	1
+ql-xii-47	QL-XII-47	BTK_inhibitor	0.0457	1
+s1230	S1230	UNMAPPED	0.0508	1
+t5212475	T5212475	UNMAPPED	0.0457	1
+teniposide	TENIPOSIDE	Topoisomerase_inhibitor	0.0406	1
+thiazolopyrimidine	thiazolopyrimidine	UNMAPPED	0.0355	1
+tw 37	TW 37	BCL2_inhibitor	0.0406	1
